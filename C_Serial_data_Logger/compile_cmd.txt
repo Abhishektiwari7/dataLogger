@@ -1,0 +1,6 @@
+fedora Linux
+compile: gcc dataLogger.c -o demo
+run :  ./demo
+
+"/dev/ttyUSB3" //my usb port check yours?
+cmd: ls-l /dev/ttyUSB*
